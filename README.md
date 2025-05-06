@@ -15,7 +15,7 @@
 
 ### :hammer_and_wrench: Other Languages :
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=lua,cs,discord,bots,py" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,py" />
 </div>
 
 ### :hammer_and_wrench: Technologies :
