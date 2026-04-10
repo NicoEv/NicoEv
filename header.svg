@@ -48,7 +48,7 @@
   <text x="194" y="80" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">NicoEv</text>
 
   <!-- Tagline -->
-  <text x="196" y="106" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13.5" fill="#8b949e">Building things on the web — one commit at a time.</text>
+  <text x="196" y="106" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13.5" fill="#8b949e">Building things or something...</text>
 
   <!-- Pill badges -->
   <rect x="196" y="122" width="82" height="22" rx="11" fill="#061522" stroke="#30a5c8" stroke-opacity="0.45" stroke-width="1"/>
