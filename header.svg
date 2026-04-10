@@ -1,0 +1,65 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f1a"/>
+      <stop offset="100%" stop-color="#0d1f2d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#30a5c8" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#30a5c8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#30a5c8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#30a5c8" stop-opacity="0.0"/>
+      <stop offset="50%" stop-color="#30a5c8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#30a5c8" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="200" fill="url(#bg)" rx="14"/>
+
+  <!-- Subtle center sweep -->
+  <ellipse cx="430" cy="200" rx="500" ry="120" fill="url(#fade)"/>
+
+  <!-- Grid dots -->
+  <g fill="#30a5c8" opacity="0.08">
+    <circle cx="40" cy="28" r="1.4"/><circle cx="100" cy="28" r="1.4"/><circle cx="160" cy="28" r="1.4"/><circle cx="220" cy="28" r="1.4"/><circle cx="280" cy="28" r="1.4"/><circle cx="340" cy="28" r="1.4"/><circle cx="400" cy="28" r="1.4"/><circle cx="460" cy="28" r="1.4"/><circle cx="520" cy="28" r="1.4"/><circle cx="580" cy="28" r="1.4"/><circle cx="640" cy="28" r="1.4"/><circle cx="700" cy="28" r="1.4"/><circle cx="760" cy="28" r="1.4"/><circle cx="820" cy="28" r="1.4"/>
+    <circle cx="40" cy="88" r="1.4"/><circle cx="100" cy="88" r="1.4"/><circle cx="160" cy="88" r="1.4"/><circle cx="220" cy="88" r="1.4"/><circle cx="280" cy="88" r="1.4"/><circle cx="340" cy="88" r="1.4"/><circle cx="400" cy="88" r="1.4"/><circle cx="460" cy="88" r="1.4"/><circle cx="520" cy="88" r="1.4"/><circle cx="580" cy="88" r="1.4"/><circle cx="640" cy="88" r="1.4"/><circle cx="700" cy="88" r="1.4"/><circle cx="760" cy="88" r="1.4"/><circle cx="820" cy="88" r="1.4"/>
+    <circle cx="40" cy="148" r="1.4"/><circle cx="100" cy="148" r="1.4"/><circle cx="160" cy="148" r="1.4"/><circle cx="220" cy="148" r="1.4"/><circle cx="280" cy="148" r="1.4"/><circle cx="340" cy="148" r="1.4"/><circle cx="400" cy="148" r="1.4"/><circle cx="460" cy="148" r="1.4"/><circle cx="520" cy="148" r="1.4"/><circle cx="580" cy="148" r="1.4"/><circle cx="640" cy="148" r="1.4"/><circle cx="700" cy="148" r="1.4"/><circle cx="760" cy="148" r="1.4"/><circle cx="820" cy="148" r="1.4"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <polyline points="28,54 28,30 52,30" fill="none" stroke="#30a5c8" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+  <polyline points="832,54 832,30 808,30" fill="none" stroke="#30a5c8" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+  <polyline points="28,146 28,170 52,170" fill="none" stroke="#30a5c8" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+  <polyline points="832,146 832,170 808,170" fill="none" stroke="#30a5c8" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="193" width="860" height="1.5" fill="url(#glow)" rx="1"/>
+
+  <!-- Avatar ring + initials -->
+  <circle cx="116" cy="100" r="52" fill="#061522" stroke="#30a5c8" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="116" cy="100" r="44" fill="#0d2233" opacity="0.8"/>
+  <text x="116" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#30a5c8">NE</text>
+
+  <!-- Name -->
+  <text x="194" y="80" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">NicoEv</text>
+
+  <!-- Tagline -->
+  <text x="196" y="106" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13.5" fill="#8b949e">Building things on the web — one commit at a time.</text>
+
+  <!-- Pill badges -->
+  <rect x="196" y="122" width="82" height="22" rx="11" fill="#061522" stroke="#30a5c8" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="237" y="137" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#79c8e8">Web Dev</text>
+
+  <rect x="286" y="122" width="84" height="22" rx="11" fill="#17102a" stroke="#a371f7" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="328" y="137" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#c9a7f7">Game Dev</text>
+
+  <rect x="378" y="122" width="100" height="22" rx="11" fill="#071e12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="428" y="137" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#7ee7a8">Self-taught</text>
+
+  <!-- Status -->
+  <circle cx="197" cy="162" r="5" fill="#3fb950"/>
+  <text x="208" y="167" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#6e7681">Available for collabs</text>
+</svg>
