@@ -10,12 +10,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![TYPO3](https://img.shields.io/badge/Typo3-FF8700?style=flat-square&logo=typo3&logoColor=white)
 
 ### ─ Other Languages
 
-![C#](https://img.shields.io/badge/C%23-9b59b6?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-9b59b6?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-9b59b6?style=flat-square&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-9b59b6?style=flat-square&logo=luau&logoColor=white)
+![GLua](https://img.shields.io/badge/GLua-9b59b6?style=flat-square&logo=lua&logoColor=white)
 
 ### ─ Tools & Infrastructure
 
